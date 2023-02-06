@@ -1,0 +1,57 @@
+/*
+    David Villafranca
+    October 6, 2022
+    IT 202-001
+    Project Phase 1
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    word-spacing: 100px;
+}
+a{
+    font-size: 200%;
+    
+}
+a:link{
+    color: white;
+}
+a:hover, a:focus{
+    color: purple;
+}
+a:visited{
+    color: turquoise;
+}
+
+body{
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 130%;
+ }
+
+.title{
+    text-align: center;
+    color: white;
+    font-size: 275%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+ }
+.des, h1{
+    text-align:center;
+    font-size: 250%;
+    color: royalblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.pic4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h6{
+    color: white;
+}
